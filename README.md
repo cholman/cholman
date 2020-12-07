@@ -1,4 +1,8 @@
 # readme
+About me:
 
-1. Full Stack Web Developer
-2. Studied at Lambda School
+- Full Stack Web Developer
+- Video Gamer
+- Podcast Listener
+- Japanese Learner
+- Stargazer 🔭
