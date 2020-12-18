@@ -1,6 +1,6 @@
 # readme
 About me:
-
+ 
 - Full Stack Web Developer  
 - Video Gamer
 - Podcast Listener
